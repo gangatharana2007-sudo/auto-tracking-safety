@@ -1,0 +1,7 @@
+{
+  "name": "KavachMesh - Auto Safety Mesh",
+  "description": "Offline-first dynamic peer-to-peer BLE and Wi-Fi Direct mesh safety network for auto-rickshaw drivers and passengers with route deviation geofencing, encrypted queuing, and emergency dispatch.",
+  "requestFramePermissions": ["geolocation", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
